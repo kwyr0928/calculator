@@ -36,6 +36,7 @@ text-decoration: underline;
 input {
     font-size: 2.0rem;
     padding: 20px 0px;
+    border-radius: 5px;
 }
 #content {
     width: fit-content;
@@ -43,9 +44,11 @@ input {
     background-color: gray;
     padding: 20px;
     margin-top: 30px;
+    border-radius: 30px;
 }
 .button {
     margin: 3px;
+    border-radius: 5px;
 }
 #numbers {
     display: grid;
